@@ -2,7 +2,7 @@
 <h3 align="center"> Hi there 👋 I'm Suni29 a developer.</h3>
 <h4 align="center"> and what I'm doing? Lets find out..</h4>
 
-<h4 align="center">Languages and tools</h4>
+<h3 align="center">Languages and tools</h4>
 <p align="center">
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="30" height="30"/>
@@ -17,9 +17,12 @@
 <img src=https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg alt=vscode width="30" height="30"/>
 </p>
 
-<h4 align="center">Connect with me</h4>
+<h3 align="center">Projects</h4>
 <p align="center">
-<img src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg alt=discord width="30" height="30"/> Suni29#3946
+  <a target="_blank" href=https://bittybot.cf/>
+    <img src=https://bittybot.cf/assets/bitty-pfp.png width="25" height="25" />
+    &nbsp;
+  </a>
 </p>
   
 <!-- Line -->
